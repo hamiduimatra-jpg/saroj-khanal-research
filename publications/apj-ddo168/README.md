@@ -1,4 +1,4 @@
-# Modeling Solitonic Cores, Stabilization of Bar, and Suppression of Bar Dissolution in DDO 168 via GPP Formalism
+#**Modeling Solitonic Cores, Stabilization of Bars, and Suppression of Bar Dissolution in DDO 168 via Gross–Pitaevskii–Poisson Formalism: A Detailed Analysis of Bose–Einstein Condensate/Fuzzy Dark Matter Halo Structure and Bar Dynamics in the Dwarf Galaxy DDO 168**
 
 ## Theoretical Framework and Supporting Materials
 
@@ -48,7 +48,7 @@ This directory may include:
 
 **Title**
 
-*Modeling Solitonic Cores, Stabilization of Bar, and Suppression of Bar Dissolution in DDO 168 via GPP Formalism*
+*Modeling Solitonic Cores, Stabilization of Bars, and Suppression of Bar Dissolution in DDO 168 via Gross–Pitaevskii–Poisson Formalism: A Detailed Analysis of Bose–Einstein Condensate/Fuzzy Dark Matter Halo Structure and Bar Dynamics in the Dwarf Galaxy DDO 168*
 
 **Journal**
 
