@@ -1,1 +1,56 @@
+cff-version: 1.2.0
 
+message: "If you use this repository, please cite the associated publication."
+
+title: "Modeling Solitonic Cores, Stabilization of Bar, and Suppression of Bar Dissolution in DDO 168 via GPP Formalism: A Detailed Analysis of Bose–Einstein Condensate/Fuzzy Dark Matter Halo Structure and Bar Dynamics in the Dwarf Galaxy DDO 168"
+
+type: article
+
+authors:
+  - family-names: Khanal
+    given-names: Saroj
+    orcid: "https://orcid.org/0009-0001-3938-2806"
+
+  - family-names: Sah
+    given-names: Sanjay Kumar
+    orcid: "https://orcid.org/0000-0002-8842-0442"
+
+  - family-names: Khanal
+    given-names: Kiran
+    orcid: "https://orcid.org/0009-0000-0385-275X"
+
+  - family-names: Khanal
+    given-names: Sapana
+    orcid: "https://orcid.org/0009-0008-6688-4909"
+
+journal: "The Astrophysical Journal"
+
+year: 2026
+
+month: 3
+
+volume: 999
+
+article-number: 114
+
+doi: "10.3847/1538-4357/ae41c2"
+
+repository-code: "https://github.com/hamiduimatra-jpg/saroj-khanal-research"
+
+abstract: "Supporting materials for the first-author Astrophysical Journal publication investigating solitonic cores, Bose–Einstein Condensate/Fuzzy Dark Matter halo structure, and stellar bar dynamics in the dwarf galaxy DDO 168 using the Gross–Pitaevskii–Poisson formalism."
+
+keywords:
+  - Computational Astrophysics
+  - Theoretical Astrophysics
+  - Galaxy Dynamics
+  - Dwarf Galaxies
+  - DDO 168
+  - Dark Matter
+  - Fuzzy Dark Matter
+  - Bose-Einstein Condensate
+  - Gross-Pitaevskii-Poisson Formalism
+  - Solitonic Core
+  - Stellar Bar Dynamics
+  - Rotation Curve Modeling
+
+license: "CC-BY-4.0"
